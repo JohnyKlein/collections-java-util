@@ -3,7 +3,7 @@ package br.com.johny.app;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class TesteListas {
+public class Aula1TesteListas {
 	public static ArrayList<String> materias = new ArrayList<String>();
 
 	public static void main(String[] args) {
