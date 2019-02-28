@@ -1,4 +1,4 @@
-package br.com.johny.app;
+package br.com.johny.app.models;
 
 public class Aula implements Comparable<Aula> {
 

@@ -1,4 +1,4 @@
-package br.com.johny.app;
+package br.com.johny.app.aulas;
 
 import java.util.ArrayList;
 import java.util.Collections;
